@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer,
+.header{
+    padding: 20px;
+    color: #fff;
+    background-color: #FE1A19;
+}
+
+.header{
+    font-weight: 700;
+}
+
+.footer{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.col{
+    width: 400px;
+    margin: 112px 0;
+    border: 5px solid #E5E000;
+    border-radius: 30px;
+}
+
+.headText,
+.text{
+    padding: 41px 33px 33px 33px;
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.recept-block{
+    padding-top: 20px;
+}
